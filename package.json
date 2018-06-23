@@ -1,0 +1,25 @@
+{
+  "name": "searching-algorithms",
+  "version": "1.0.0",
+  "description": "### Linear Search",
+  "main": "searchAlgorithms.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/searching-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/searching-algorithms/issues"
+  },
+  "homepage": "https://github.com/gSchool/searching-algorithms#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "locus": "^1.2.0",
+    "mocha": "^2.4.5"
+  }
+}
